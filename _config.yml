@@ -1,0 +1,17 @@
+title: Bread Cooperative — Public Knowledge Base
+description: >-
+  A public, read-only view of the Bread Cooperative knowledge base — what the
+  cooperative is, the tools it builds, its member projects, how it governs
+  itself, and how to get involved. Internal records (people, finances, reviews,
+  tasks) are not included.
+remote_theme: just-the-docs/just-the-docs
+url: https://breadchaincoop.github.io
+baseurl: /public-kb
+search_enabled: true
+color_scheme: light
+aux_links:
+  "Docs":
+    - "https://docs.bread.coop"
+  "GitHub":
+    - "https://github.com/BreadchainCoop"
+heading_anchors: true
